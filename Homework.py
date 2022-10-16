@@ -83,7 +83,7 @@
 # expression2 = get_expression(k, ratios)
 # print(expression2)
 
-# with open('33_Polynomial2.txt', 'w') as data:
+# with open('expression2.txt', 'w') as data:
 #     data.write(expression2)
 
 
